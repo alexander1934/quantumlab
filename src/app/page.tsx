@@ -1,6 +1,6 @@
-import Input from "../../../../components/Input";
+import Input from "@/../components/Input";
 import Link from "next/link";
-import Button from "../../../../components/Button";
+import Button from "@/../components/Button";
 import styles from "@/../styles/pages/Home.module.scss";
 
 export default function Home() {
