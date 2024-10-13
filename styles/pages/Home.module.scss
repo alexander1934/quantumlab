@@ -16,19 +16,13 @@
   h2, h3, input {
     font-size: 16px;
   }
-  .form__title {
+  &__title {
     padding-bottom: 16px;
     font-weight: 450;
   }
-  .form__container {
+  &__container {
     padding: 20px;
     border-bottom: 1px solid #2E2E2E;
-  }
-  .input__block {
-    .input__title {
-      font-weight: 400;
-      color: #8A8A8A;
-    }
   }
   .button__container {
     padding: 24px;
