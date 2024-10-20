@@ -9,7 +9,7 @@ type InputProps = {
 const Input: React.FC<InputProps> = ({placeholder, title}) => {
     return (
         <>
-            <p></p>
+            <p>{title}</p>
             <input className={styles.input} type="text" placeholder={placeholder}/>
         </>
     )
